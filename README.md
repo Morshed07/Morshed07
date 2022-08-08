@@ -8,7 +8,7 @@ I am a fast learner. So that, I can learn about any Language at any time as my n
 
 Skills: <b>Django/Flask /Bootstrap/ HTML / CSS</b>
 
-- 🔭 I’m currently working on <b>An E-Commerce Site</b> 
+- 🔭 I’m currently working on <b>Project</b> related to <b>An E-Commerce Site</b> 
 - 🌱 I’m currently learning <b>Django, HTML, CSS, Machine Learning 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: inayeem729@gmail.com 
