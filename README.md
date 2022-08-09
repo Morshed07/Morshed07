@@ -19,13 +19,13 @@ Skills: <b>Django/Flask /Bootstrap/ HTML / CSS</b>
 
  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=morshed07)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morshed07)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=morshed07&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=morshed07)  
+  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=morshed07)  
 
