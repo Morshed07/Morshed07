@@ -29,7 +29,7 @@
 
 <div align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Morshed07&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Morshed07&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+  <img width="424px" src="https://github-readme-streak-stats.herokuapp.com/?user=Morshed07&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </div>
 
 
