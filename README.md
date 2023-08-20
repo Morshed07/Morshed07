@@ -1,4 +1,4 @@
-![Alt text](https://raw.githubusercontent.com/Morshed07/Morshed07/main/Banner_New.gif)
+![Alt text](https://raw.githubusercontent.com/Morshed07/Morshed07/main/Banner_Main.gif)
 
 <img align="right" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4758tl91f8wi2doe2rqfaadqydwty4f572uoz8m5nh&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="400"/>
 
