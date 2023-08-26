@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on : **An E-Commerce Project**
 
-- 🌱 I’m currently learning : **Django, DRF, Flask, Pyhton, Vue**
+- 🌱 I’m currently learning : **Django, DRF, Vue, Python**
 
 - 💬 Ask me about : **DjanGO**
 
