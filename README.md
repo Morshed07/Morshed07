@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morshed07&label=Profile%20views&color=0e75b6&style=flat" alt="morshed07" /> </p>
 
-- 🔭 I’m currently working on : **An E-Commerce Project**
+- 🔭 I’m currently working on : **An LMS Project named PrepHive**
 
 - 🌱 I’m currently learning : **Django, DRF, Vue, Python**
 
