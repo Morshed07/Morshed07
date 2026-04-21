@@ -22,7 +22,6 @@
 ### ☁️ DevOps & Automation
 * **CI/CD:** ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-FF6B11?style=flat-square&logo=git&logoColor=white)
 * **Cloud:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white) ![CloudFront](https://img.shields.io/badge/CloudFront-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-* **Ops:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 <br clear="right" />
 
@@ -31,15 +30,12 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-
   <img src="https://github-readme-stats.vercel.app/api?username=morshed07&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=morshed07&theme=tokyonight&hide_border=true" width="48%" />
-
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=morshed07&theme=tokyo-night&area=true&hide_border=true" width="97%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morshed07&theme=tokyonight" width="100%" />
 </p>
 
 ---
