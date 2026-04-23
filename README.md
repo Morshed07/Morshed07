@@ -21,9 +21,8 @@
 
 ### ☁️ DevOps & Automation
 * **CI/CD:** ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-FF6B11?style=flat-square&logo=git&logoColor=white)
+* **Containers:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 * **Cloud:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white) ![CloudFront](https://img.shields.io/badge/CloudFront-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
-<br clear="right" />
 
 ---
 
@@ -35,8 +34,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morshed07&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Morshed07&theme=tokyo-night&area=true&hide_border=true&custom_title=Daily%20Contribution%20Pulse" width="100%" />
 </p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B11&center=true&vCenter=true&width=450&lines=Backend+Focused+Full+Stack+Dev;Dream+Project+Nibash+;HLS+Adaptive+Video+Streaming;Django+%26+Next.js+Expertise" alt="Typing SVG" />
+  </a>
+</p>
+
 
 ---
 
