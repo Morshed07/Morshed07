@@ -29,8 +29,8 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=morshed07&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=morshed07&theme=tokyonight&hide_border=true" width="60%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Morshed07&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=morshed07&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
