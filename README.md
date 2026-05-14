@@ -29,13 +29,27 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Morshed07&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=morshed07&theme=tokyonight&hide_border=true" width="48%" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morshed07&theme=github_dark" 
+    width="98%" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=morshed07&theme=github_dark" 
+    width="48%" 
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=morshed07&theme=github_dark" 
+    width="48%" 
+  />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Morshed07&theme=tokyo-night&area=true&hide_border=true&custom_title=Daily%20Contribution%20Pulse" width="100%" />
 </p>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
